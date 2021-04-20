@@ -17,4 +17,4 @@ mailing list as well.
 
 ### Specification Status
 
-- This specification has been superceeded by [VC Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021) and will no longer be maintained
+- This specification has been superseded by [VC Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021) and will no longer be maintained
